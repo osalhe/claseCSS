@@ -21,3 +21,11 @@ color: #F30A0A;}
 .headerazul{
     background-color: dodgerblue;
 }
+.imagenfondo{
+    background-image: url(img/Medellin.jpg);
+    height: 640px;
+    background-attachment: fixed;
+}
+.textorojo{
+    color:greenyellow;
+}
