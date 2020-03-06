@@ -11,6 +11,13 @@ color: #F30A0A;}
     text-align: justify;
 
 }
-body{
+.bodyprincipal{
     background-color: gray;
+}
+.headerverde{
+    background-color: chartreuse;
+    
+}
+.headerazul{
+    background-color: dodgerblue;
 }
